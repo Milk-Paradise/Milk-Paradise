@@ -8,6 +8,6 @@
 
 ### 🛠 Технологии 
 <p> 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vue,tailwind" />
 
 </p> Кулачик 🤜🤛
