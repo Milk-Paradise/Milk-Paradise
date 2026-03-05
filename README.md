@@ -10,4 +10,6 @@
 <p> 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vue,tailwind" />
 
-</p> Кулачик 🤜🤛
+</p> 
+
+### Все Кулачик 🤜🤛
